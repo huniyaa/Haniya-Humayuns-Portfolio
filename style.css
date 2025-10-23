@@ -642,12 +642,6 @@ footer {
   content: none;
 }
 
-.nav-sticky a:hover,
-.nav-sticky a.active {
-  border-left-color: var(--accent-blue);
-  color: var(--accent-blue);
-  font-weight: 600;
-}
 
 /* Content Area - Takes remaining space */
 .project-content {
@@ -1034,4 +1028,5 @@ footer {
   .image-grid {
     gap: 1rem;
   }
+
 }
